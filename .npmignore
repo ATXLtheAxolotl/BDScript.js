@@ -3,6 +3,5 @@ docs
 .idea
 .env
 dist/__tests__/
-src
 dist/development
 tsconfig.tsbuildinfo
